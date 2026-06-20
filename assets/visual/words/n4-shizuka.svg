@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="quiet area illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#eaf7f4"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g transform="translate(150 128) scale(0.9)">
+    <path d="M-26 52c4-33 22-50 45-50s39 17 46 50Z" fill="#2f9a90"/>
+    <circle cx="18" cy="-28" r="25" fill="#efb18d"/>
+    <path d="M-2-36c11-18 43-16 51 3-13-4-25-4-38-1-7 2-10 1-13-2Z" fill="#4a3428"/>
+    <circle cx="9" cy="-28" r="3.6" fill="#24312f"/><circle cx="29" cy="-28" r="3.6" fill="#24312f"/>
+    <path d="M9-15c7 6 17 6 25 0" fill="none" stroke="#24312f" stroke-width="4.5" stroke-linecap="round"/>
+  </g><g class="pulse" transform="translate(232 80)"><circle r="34" fill="#fff" stroke="#24312f" stroke-width="6"/><path d="M-12 10c9-22 27-22 18-48" fill="none" stroke="#6a7888" stroke-width="8" stroke-linecap="round"/></g>
+</svg>

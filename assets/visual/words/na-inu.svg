@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="狗 visual">
+  <rect width="160" height="160" rx="26" fill="#fff4ef"/>
+  <circle cx="126" cy="30" r="18" fill="#507fa8" opacity=".2"/>
+  <circle cx="34" cy="132" r="22" fill="#e87562" opacity=".14"/>
+  
+      <circle cx="80" cy="56" r="22" fill="#e87562"/>
+      <path d="M45 128c4-28 22-44 35-44s31 16 35 44Z" fill="#507fa8" opacity=".86"/>
+      <path d="M65 62c8 8 22 8 30 0" fill="none" stroke="#22302d" stroke-width="6" stroke-linecap="round"/>
+    
+  <path d="M30 136c22 8 78 8 100 0" fill="none" stroke="#22302d" stroke-width="3" opacity=".12" stroke-linecap="round"/>
+  <rect x="18" y="18" width="124" height="124" rx="22" fill="none" stroke="#22302d" stroke-width="3" opacity=".08"/>
+  <circle cx="52" cy="24" r="3" fill="#507fa8" opacity=".7"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="mother illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#fff2f1"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="96" ry="12" fill="#20302d" opacity="0.12"/><g transform="translate(116 132) scale(0.78)">
+    <path d="M-23 40c4-28 18-43 37-43s33 15 39 43Z" fill="#e87562"/>
+    <circle cx="12" cy="-28" r="24" fill="#eeb08f"/>
+    <path d="M-11-34c9-20 42-18 50 3-10-3-21-4-34-1-6 1-12 1-16-2Z" fill="#4b3428"/>
+    <path d="M1-18c7 7 19 7 26 0" fill="none" stroke="#20302d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="2" cy="-27" r="3.4" fill="#20302d"/><circle cx="28" cy="-27" r="3.4" fill="#20302d"/>
+    
+  </g><g transform="translate(196 160) scale(0.48)">
+    <path d="M-23 40c4-28 18-43 37-43s33 15 39 43Z" fill="#2f8f67"/>
+    <circle cx="12" cy="-28" r="24" fill="#eeb08f"/>
+    <path d="M-11-34c9-20 42-18 50 3-10-3-21-4-34-1-6 1-12 1-16-2Z" fill="#4b3428"/>
+    <path d="M1-18c7 7 19 7 26 0" fill="none" stroke="#20302d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="2" cy="-27" r="3.4" fill="#20302d"/><circle cx="28" cy="-27" r="3.4" fill="#20302d"/>
+    
+  </g><path class="pulse" transform="translate(204 74) scale(0.22)" d="M0 18c-38-30-58-49-58-77 0-22 17-38 38-38 13 0 25 7 32 18 7-11 19-18 32-18 21 0 38 16 38 38 0 28-20 47-82 77Z" fill="#e87562" stroke="#20302d" stroke-width="6" stroke-linejoin="round"/><path d="M148 150c18 24 38 26 58 4" fill="none" stroke="#e87562" stroke-width="7" stroke-linecap="round" opacity=".34"/>
+</svg>

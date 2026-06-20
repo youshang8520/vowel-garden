@@ -1,0 +1,26 @@
+{
+  "name": "vowel-garden",
+  "version": "1.0.0",
+  "description": "元音花园 Android 日语学习项目公开预览包。",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python -m http.server 5174",
+    "build:web": "node scripts/build-web.mjs",
+    "android:sync": "npm run build:web && npx cap sync android",
+    "android:open": "npm run android:sync && npx cap open android"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "LicenseRef-VowelGarden-NonCommercial",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/app": "^8.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.4.0",
+    "@capacitor/cli": "^8.4.0",
+    "@capacitor/core": "^8.4.0",
+    "playwright": "^1.60.0",
+    "svg-path-properties": "^2.0.2"
+  }
+}

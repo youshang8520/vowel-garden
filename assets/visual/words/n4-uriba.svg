@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="shopping uriba illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#f8efd9"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g transform="translate(160 126)"><path d="M-82-28h164l-18 86H-64Z" fill="#fff" stroke="#24312f" stroke-width="7" stroke-linejoin="round"/><path d="M-52-28c8-44 96-44 104 0" fill="none" stroke="#3a9468" stroke-width="8" stroke-linecap="round"/><circle cx="-34" cy="8" r="18" fill="#e87562" opacity=".82"/><circle cx="14" cy="10" r="18" fill="#e4aa48" opacity=".82"/><rect x="38" y="-6" width="30" height="36" rx="8" fill="#4d84b8" opacity=".82"/></g><circle cx="112" cy="58" r="10" fill="#e87562" opacity=".34"/>
+</svg>

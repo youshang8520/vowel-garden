@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="hotel annai illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#edf3fb"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g transform="translate(160 118)"><rect x="-72" y="-78" width="144" height="154" rx="12" fill="#fff" stroke="#24312f" stroke-width="7"/><path d="M-48-48h26M-12-48h26M24-48h26M-48-12h26M-12-12h26M24-12h26M-48 24h26M24 24h26" stroke="#4d84b8" stroke-width="9" stroke-linecap="round"/><rect x="-12" y="34" width="24" height="42" rx="5" fill="#3a9468"/></g><circle cx="184" cy="58" r="10" fill="#e87562" opacity=".34"/>
+</svg>

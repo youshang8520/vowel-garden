@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="teacher illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#fff7e8"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="216" rx="96" ry="12" fill="#20302d" opacity="0.12"/><rect x="112" y="48" width="128" height="74" rx="10" fill="#2f9a90" stroke="#20302d" stroke-width="6"/><path d="M130 72h50M130 94h78" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".92"/><g transform="translate(78 136) scale(0.9)">
+    <path d="M-23 40c4-28 18-43 37-43s33 15 39 43Z" fill="#4d84b8"/>
+    <circle cx="12" cy="-28" r="24" fill="#eeb08f"/>
+    <path d="M-11-34c9-20 42-18 50 3-10-3-21-4-34-1-6 1-12 1-16-2Z" fill="#4b3428"/>
+    <path d="M1-18c7 7 19 7 26 0" fill="none" stroke="#20302d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="2" cy="-27" r="3.4" fill="#20302d"/><circle cx="28" cy="-27" r="3.4" fill="#20302d"/>
+    
+  </g><path class="pulse" d="M121 144l70-42" stroke="#e2a844" stroke-width="9" stroke-linecap="round"/><circle cx="194" cy="101" r="8" fill="#e2a844"/><rect x="108" y="130" width="140" height="18" rx="8" fill="#20302d" opacity=".12"/>
+</svg>

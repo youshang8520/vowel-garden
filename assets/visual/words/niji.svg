@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="two oclock illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#f7f1ff"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="90" ry="12" fill="#20302d" opacity="0.12"/><g transform="translate(150 118) scale(0.96)">
+    <circle class="float" cx="0" cy="0" r="72" fill="#fff" stroke="#20302d" stroke-width="7"/>
+    <circle cx="0" cy="0" r="6" fill="#20302d"/>
+    <path d="M0 0L27.7 -16.0" stroke="#2f9a90" stroke-width="9" stroke-linecap="round"/>
+    <path d="M0 0L0.0 -48.0" stroke="#20302d" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+    <circle cx="0" cy="-52" r="5" fill="#5d6f82" opacity=".72"/><circle cx="52" cy="0" r="5" fill="#5d6f82" opacity=".72"/>
+    <circle cx="0" cy="52" r="5" fill="#5d6f82" opacity=".72"/><circle cx="-52" cy="0" r="5" fill="#5d6f82" opacity=".72"/>
+  </g><circle class="pulse" cx="218" cy="108" r="16" fill="#2f9a90" opacity=".2"/><path d="M94 204h112" stroke="#2f9a90" stroke-width="8" opacity=".18" stroke-linecap="round"/>
+</svg>

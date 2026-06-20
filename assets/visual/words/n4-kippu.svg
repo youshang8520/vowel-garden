@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="ticket illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#f8edd2"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g class="float" transform="translate(160 122)">
+    <path d="M-94-48h188v34c-20 0-20 28 0 28v34H-94V14c20 0 20-28 0-28Z" fill="#fff3c7" stroke="#24312f" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M-44-28h88M-44 0h48M-44 28h70" stroke="#6a7888" stroke-width="8" stroke-linecap="round" opacity=".58"/>
+    <circle cx="62" cy="20" r="22" fill="#3a9468" opacity=".28" stroke="#3a9468" stroke-width="7"/>
+  </g>
+</svg>

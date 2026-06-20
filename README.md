@@ -1,39 +1,17 @@
 # 元音花园
 
-元音花园是一款日语假名与入门日语学习 App。
+元音花园是一个面向日语零基础学习者的 Android 学习项目，当前内容覆盖基础假名、听说读写练习、N5/N4 主题、会话任务、真实听力、真实文本和长期复习。
 
-当前发布为 Android 预览测试版，用于安装体验、学习流程测试和非商业个人使用。
+## 使用方式
 
-## 下载
+- 到 GitHub Releases 下载 APK：`https://github.com/youshang8520/vowel-garden/releases`。
+- 需要本地预览 Web 版时，在源码目录运行 `npm install` 后执行 `npm run serve`，然后打开 `http://localhost:5174`。
+- 需要重新生成 Android Web 资源时运行 `npm run build:web` 或 `npm run android:sync`。
 
-请到 GitHub Releases 下载 APK：
+## 授权
 
-https://github.com/youshang8520/vowel-garden/releases
+本项目源码可查看、可修改、可再分发，用于个人学习、教学、研究和评估，但禁止商用。具体条款见 `LICENSE`，第三方素材和授权边界见 `NOTICE.md` 与 `docs/release-license-boundary.md`。
 
-当前版本：
+## 发布包边界
 
-- 版本：v0.1.0-alpha-20260618
-- 文件：vowel-garden-v0.1.0-alpha-20260618-release.apk
-- SHA-256：6288469f1ec4ee55f08aab0eb23334d625bd53c717c09666e5047b3b84ee2559
-
-## 安装
-
-1. 在 Android 手机上下载 APK。
-2. 如系统提示，允许从浏览器或文件管理器安装未知来源应用。
-3. 打开 APK 安装。
-
-如果手机上已有旧测试包，建议先卸载旧版本再安装。
-
-## 使用范围
-
-本项目当前发布内容仅允许个人学习、测试和非商业使用。
-
-未经作者书面许可，禁止商用、转售、打包分发、上架应用商店、用于付费课程或作为商业产品的一部分。
-
-## 反馈
-
-如发现安装、声音、手写、题目或界面问题，可以在 Issues 中反馈。
-
-## 许可
-
-见 `LICENSE.md`。
+公开发布包只包含用户运行、学习、查看和重新构建所需内容，不包含本地开发进度、验收日志、截图输出或临时文件。

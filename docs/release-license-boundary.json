@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-06-19",
+  "projectLicense": {
+    "id": "LicenseRef-VowelGarden-NonCommercial",
+    "name": "Vowel Garden Non-Commercial Source License",
+    "commercialUse": "prohibited-without-written-permission",
+    "allowedUse": [
+      "personal-learning",
+      "teaching",
+      "research",
+      "evaluation",
+      "non-commercial-redistribution"
+    ],
+    "requiredFiles": [
+      "LICENSE",
+      "NOTICE.md",
+      "README.md",
+      "docs/release-license-boundary.md",
+      "docs/release-license-boundary.json"
+    ]
+  },
+  "assetBoundaries": [
+    {
+      "category": "course-source",
+      "source": "Vowel Garden contributors",
+      "releasePolicy": "project-non-commercial-license",
+      "requiredBeforeFinalRelease": "GitHub release copy must state commercial use is prohibited."
+    },
+    {
+      "category": "word-visual-svg",
+      "source": "project-generated learning assets",
+      "releasePolicy": "project-non-commercial-license",
+      "requiredBeforeFinalRelease": "Keep asset audit and no-answer-leak checks passing."
+    },
+    {
+      "category": "local-wav-audio",
+      "source": "project-generated or curated local WAV files",
+      "releasePolicy": "non-commercial-preview-bundle",
+      "requiredBeforeFinalRelease": "Confirm source or generation-service redistribution terms."
+    },
+    {
+      "category": "fonts",
+      "source": "assets/fonts with bundled upstream notices",
+      "releasePolicy": "upstream-font-license",
+      "requiredBeforeFinalRelease": "Keep font license notices in release package."
+    },
+    {
+      "category": "kana-handwriting-models",
+      "source": "project handwriting models",
+      "releasePolicy": "project-non-commercial-license",
+      "requiredBeforeFinalRelease": "Keep handwriting validation guard passing."
+    },
+    {
+      "category": "kanji-handwriting-models",
+      "source": "KanjiVG stroke path derived data",
+      "license": "CC-BY-SA-3.0",
+      "copyright": "Ulrich Apel / KanjiVG contributors",
+      "links": [
+        "https://github.com/KanjiVG/kanjivg",
+        "https://kanjivg.tagaini.net/"
+      ],
+      "releasePolicy": "keep-attribution-license-link-and-modification-notice",
+      "requiredBeforeFinalRelease": "Review ShareAlike boundary and release notes."
+    },
+    {
+      "category": "stroke-animations",
+      "source": "pending",
+      "releasePolicy": "not-claimed-complete",
+      "requiredBeforeFinalRelease": "Record source, license, attribution, and modification notes if bundled."
+    }
+  ],
+  "mustNotClaim": [
+    "manual-device-acceptance-complete-before-user-confirmation",
+    "third-party-audio-commercial-authorization-before-review",
+    "stroke-animation-coverage-before-bundling",
+    "ISC-or-MIT-style-commercial-license"
+  ]
+}

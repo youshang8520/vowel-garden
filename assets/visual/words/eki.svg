@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="train station illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#eef7ff"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="106" ry="12" fill="#20302d" opacity="0.12"/><g class="float"><g transform="translate(150 124) scale(0.84)">
+    <path d="M-112-74H112L92-46H-92Z" fill="#2f9a90" stroke="#20302d" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="-94" y="-46" width="188" height="44" rx="8" fill="#e8f3ff" stroke="#20302d" stroke-width="6"/>
+    <circle cx="0" cy="-24" r="13" fill="#fff" stroke="#20302d" stroke-width="4"/>
+    <path d="M0-32v8l7 5" fill="none" stroke="#20302d" stroke-width="3.5" stroke-linecap="round"/>
+    <rect x="-74" y="0" width="148" height="58" rx="16" fill="#fff" stroke="#4d84b8" stroke-width="7"/>
+    <rect x="-50" y="12" width="34" height="22" rx="5" fill="#cfe8ff"/><rect x="16" y="12" width="34" height="22" rx="5" fill="#cfe8ff"/>
+    <circle cx="-44" cy="59" r="10" fill="#20302d" opacity=".55"/><circle cx="44" cy="59" r="10" fill="#20302d" opacity=".55"/>
+    <path d="M-112 86H112M-86 110H86M-70 84l-22 32M70 84l22 32" fill="none" stroke="#20302d" stroke-width="6" stroke-linecap="round" opacity=".42"/>
+  </g></g><path d="M62 210h176" stroke="#20302d" stroke-width="8" opacity=".14" stroke-linecap="round"/><circle cx="226" cy="50" r="16" fill="#e2a844" opacity=".25"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="water illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#e8f7ff"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="86" ry="12" fill="#20302d" opacity="0.12"/><g class="float"><path d="M98 68h104l-14 124H112Z" fill="#dff7ff" stroke="#20302d" stroke-width="7" stroke-linejoin="round"/><path d="M109 126c24-14 50 14 78 0l-7 55h-62Z" fill="#69c6e8" opacity=".82"/><ellipse cx="150" cy="68" rx="52" ry="12" fill="#fff" stroke="#20302d" stroke-width="6"/><circle cx="104" cy="92" r="8" fill="#69c6e8" opacity=".8"/><circle cx="214" cy="134" r="10" fill="#69c6e8" opacity=".62"/></g><path d="M112 202h78" stroke="#4d84b8" stroke-width="8" opacity=".2" stroke-linecap="round"/>
+</svg>

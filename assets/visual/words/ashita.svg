@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="tomorrow illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#fff8e7"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="92" ry="12" fill="#20302d" opacity="0.12"/><g transform="translate(134 118) scale(0.9)">
+    <rect x="-78" y="-64" width="156" height="138" rx="18" fill="#fff" stroke="#20302d" stroke-width="7"/>
+    <path d="M-78-28H78" stroke="#e2a844" stroke-width="15" opacity=".82"/>
+    <path d="M-46-76v28M46-76v28" stroke="#20302d" stroke-width="8" stroke-linecap="round"/>
+    <circle class="pulse" cx="38" cy="26" r="28" fill="#e2a844" opacity=".24" stroke="#e2a844" stroke-width="7"/>
+    <path d="M-48 0h96M-48 42h96M-18-12v70M22-12v70" stroke="#5d6f82" stroke-width="5" opacity=".26" stroke-linecap="round"/>
+  </g><path class="pulse" d="M74 151L182 150" fill="none" stroke="#e87562" stroke-width="9" stroke-linecap="round"/>
+  <path d="M182 150L164.0933601790139 160.16623088078734M182 150L163.9081829316407 140.16708816448437" fill="none" stroke="#e87562" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="230" cy="66" r="17" fill="#e87562" opacity=".15"/><path d="M88 204h132" stroke="#e2a844" stroke-width="8" opacity=".2" stroke-linecap="round"/>
+</svg>

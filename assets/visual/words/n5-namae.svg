@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="name tag illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#f7f8f1"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="215" rx="86" ry="12" fill="#20302d" opacity="0.12"/><rect class="float" x="58" y="58" width="184" height="116" rx="22" fill="#fff" stroke="#4d84b8" stroke-width="7"/><circle cx="92" cy="96" r="20" fill="#e87562"/><path d="M63 143c8-30 22-44 29-44s24 14 32 44Z" fill="#2f8f67" opacity=".92"/><path d="M134 86h62M134 112h74M134 138h52" stroke="#20302d" stroke-width="7" stroke-linecap="round" opacity=".48"/><path class="pulse" d="M190 168l54-34" stroke="#e2a844" stroke-width="8" stroke-linecap="round"/><path d="M242 133l13 14" stroke="#e2a844" stroke-width="8" stroke-linecap="round"/>
+</svg>

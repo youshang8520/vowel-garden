@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="tea illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#f0fdf4"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="86" ry="12" fill="#20302d" opacity="0.12"/><g class="float"><g transform="translate(145 128) scale(0.92)">
+    <path d="M-54-22h108v52c0 30-22 52-54 52s-54-22-54-52Z" fill="#fff" stroke="#20302d" stroke-width="6"/>
+    <path d="M-44-10h88" stroke="#51a85f" stroke-width="13" stroke-linecap="round"/>
+    <path d="M54-8h24c22 0 22 38 0 38H54" fill="none" stroke="#20302d" stroke-width="6" stroke-linecap="round"/>
+    <path class="steam" d="M-24-50c0-20 18-20 18-42M8-50c0-20 18-20 18-42M38-50c0-18 14-18 14-36" fill="none" stroke="#51a85f" stroke-width="7" stroke-linecap="round"/>
+  </g></g><path class="steam" d="M82 78c-10-20 22-23 10-44M140 72c-8-18 18-22 8-40M200 82c-8-17 16-20 8-36" fill="none" stroke="#2f8f67" stroke-width="6" stroke-linecap="round" opacity=".55"/><circle cx="224" cy="58" r="14" fill="#2f8f67" opacity=".16"/>
+</svg>

@@ -1,7 +1,36 @@
-# Notice
+# Vowel Garden Notices
 
-元音花园当前公开仓库用于发布 Android 预览测试包和面向用户的说明。
+This project is released as a source-available Japanese learning app
+preview for non-commercial use.
 
-本仓库不包含开发工作区、内部进度记录、验收记录或项目源代码。
+## Project License
 
-APK 内包含日语学习所需的本地音频、视觉素材和笔顺素材。相关内容仅随本 App 以非商业测试用途提供。
+Project code and release packages are licensed under the Vowel Garden
+Non-Commercial Source License unless a file explicitly states otherwise.
+Commercial use is prohibited without prior written permission.
+
+## Bundled Assets
+
+- Local UI font files are bundled with their upstream Open Font License
+  notice in `assets/fonts/` and the generated Android public assets.
+- Word visual cards are project-generated SVG learning assets.
+- Japanese reading audio is bundled as local WAV files for offline playback.
+- Handwriting stroke data and stroke animation resources are included for
+  learning validation and review.
+- Kanji handwriting models in `src/data/kanjiHandwritingModels.js` are
+  derived from KanjiVG SVG stroke path data. KanjiVG is copyright Ulrich
+  Apel / KanjiVG contributors and is distributed under Creative Commons
+  Attribution-Share Alike 3.0. Project links:
+  https://github.com/KanjiVG/kanjivg and https://kanjivg.tagaini.net/.
+  The raw KanjiVG SVG files are not bundled; generated stroke point models
+  are bundled for handwriting validation.
+
+## Release Scope
+
+The current release package is a non-commercial preview build for testing
+and manual acceptance. It is not marked as a final stable course release.
+
+Before publishing to a public app store, using the package in a paid
+product or service, or redistributing it outside the non-commercial preview
+scope, re-check the redistribution terms for bundled audio, stroke
+animations, fonts, and visual assets.

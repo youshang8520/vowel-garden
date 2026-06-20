@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="map illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#eefaf3"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="96" ry="12" fill="#20302d" opacity="0.12"/><g class="float"><g transform="translate(150 126) scale(0.88)">
+    <path d="M-90-58-30-76 30-58 90-76V56L30 76-30 56-90 76Z" fill="#fff" stroke="#20302d" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M-30-76v132M30-58v134" stroke="#5d6f82" stroke-width="5" opacity=".35"/>
+    <path d="M-66 30c28-44 58-44 88-4 18 24 34 24 56-4" fill="none" stroke="#2f8f67" stroke-width="9" stroke-linecap="round"/>
+    <path class="pulse" d="M36-38c-18 0-32 14-32 32 0 25 32 58 32 58s32-33 32-58c0-18-14-32-32-32Z" fill="#e87562" stroke="#20302d" stroke-width="5"/><circle cx="36" cy="-7" r="10" fill="#fff"/>
+  </g></g><circle cx="230" cy="64" r="16" fill="#2f8f67" opacity=".14"/><path d="M76 210h148" stroke="#2f8f67" stroke-width="8" opacity=".16" stroke-linecap="round"/>
+</svg>

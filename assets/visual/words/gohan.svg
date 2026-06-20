@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260" role="img" aria-label="rice illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.steam{animation:vgSteam 2.2s ease-in-out infinite}.walk{animation:vgWalk 1.8s ease-in-out infinite}.look{animation:vgLook 2.8s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgSteam{0%,100%{opacity:.38;transform:translateY(0)}50%{opacity:.9;transform:translateY(-8px)}}@keyframes vgWalk{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(3deg)}}@keyframes vgLook{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.steam,.walk,.look{animation:none}}
+  </style>
+  <rect width="300" height="260" rx="30" fill="#fff8e7"/>
+  <rect x="18" y="18" width="264" height="224" rx="26" fill="#fff" opacity=".86"/>
+  <circle cx="252" cy="44" r="24" fill="#fff" opacity=".58"/>
+  <circle cx="44" cy="218" r="28" fill="#fff" opacity=".42"/>
+  <ellipse cx="150" cy="218" rx="96" ry="12" fill="#20302d" opacity="0.12"/><g class="float"><g transform="translate(144 122) scale(0.9)">
+    <path d="M-76-2c13-43 139-43 152 0" fill="#fff" stroke="#20302d" stroke-width="6"/>
+    <circle cx="-40" cy="-6" r="10" fill="#fff"/><circle cx="-18" cy="-19" r="12" fill="#fff"/><circle cx="8" cy="-22" r="13" fill="#fff"/><circle cx="34" cy="-14" r="11" fill="#fff"/>
+    <path d="M-72 0h144c-7 52-32 76-72 76S-65 52-72 0Z" fill="#79b7d9" stroke="#20302d" stroke-width="6"/>
+    <path d="M-46 22h92M-30 44h60" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".62"/>
+    <path d="M42-54l72-32M54-35l72-32" stroke="#e2a844" stroke-width="6" stroke-linecap="round"/>
+  </g></g><circle cx="234" cy="70" r="17" fill="#e2a844" opacity=".17"/><path d="M82 202h132" stroke="#e2a844" stroke-width="8" opacity=".22" stroke-linecap="round"/>
+</svg>

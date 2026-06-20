@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="home naoshimasu illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#f8eee7"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g transform="translate(160 126)"><path d="M-78-10 0-78 78-10" fill="#e87562" stroke="#24312f" stroke-width="7" stroke-linejoin="round"/><rect x="-58" y="-10" width="116" height="88" rx="12" fill="#fff3df" stroke="#24312f" stroke-width="7"/><rect x="-14" y="28" width="28" height="50" rx="6" fill="#3a9468"/><rect x="-44" y="8" width="26" height="24" rx="4" fill="#dff1ff"/><rect x="18" y="8" width="26" height="24" rx="4" fill="#dff1ff"/></g><circle cx="208" cy="58" r="10" fill="#3a9468" opacity=".34"/>
+</svg>

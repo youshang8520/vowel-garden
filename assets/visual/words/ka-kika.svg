@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="可作为词的一部分，用来熟悉音形 visual">
+  <rect width="160" height="160" rx="26" fill="#f4f6ff"/>
+  <circle cx="126" cy="30" r="18" fill="#4f8f67" opacity=".2"/>
+  <circle cx="34" cy="132" r="22" fill="#6f7dbd" opacity=".14"/>
+  
+    <circle cx="80" cy="80" r="42" fill="#6f7dbd" opacity=".18"/>
+    <path d="M52 88c16-34 40-34 56 0" fill="none" stroke="#6f7dbd" stroke-width="10" stroke-linecap="round"/>
+    <path d="M58 112h44" stroke="#4f8f67" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="80" cy="64" r="10" fill="#22302d" opacity=".72"/>
+  
+  <path d="M30 136c22 8 78 8 100 0" fill="none" stroke="#22302d" stroke-width="3" opacity=".12" stroke-linecap="round"/>
+  <rect x="18" y="18" width="124" height="124" rx="22" fill="none" stroke="#22302d" stroke-width="3" opacity=".08"/>
+  <circle cx="52" cy="24" r="3" fill="#4f8f67" opacity=".7"/>
+</svg>

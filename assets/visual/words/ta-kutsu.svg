@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="鞋 visual">
+  <rect width="160" height="160" rx="26" fill="#f7f1e8"/>
+  <circle cx="126" cy="30" r="18" fill="#507fa8" opacity=".2"/>
+  <circle cx="34" cy="132" r="22" fill="#d79b4b" opacity=".14"/>
+  
+      <rect x="42" y="62" width="76" height="62" rx="12" fill="#d79b4b"/>
+      <path d="M54 62c8-18 44-18 52 0" fill="none" stroke="#507fa8" stroke-width="8" stroke-linecap="round"/>
+      <path d="M58 91h44" stroke="#22302d" stroke-width="7" stroke-linecap="round"/>
+    
+  <path d="M30 136c22 8 78 8 100 0" fill="none" stroke="#22302d" stroke-width="3" opacity=".12" stroke-linecap="round"/>
+  <rect x="18" y="18" width="124" height="124" rx="22" fill="none" stroke="#22302d" stroke-width="3" opacity=".08"/>
+  <circle cx="52" cy="24" r="3" fill="#507fa8" opacity=".7"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="using phone illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#e8f3ff"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g transform="translate(160 118)">
+    <rect x="-38" y="-76" width="76" height="138" rx="18" fill="#4d84b8" stroke="#24312f" stroke-width="7"/>
+    <rect x="-24" y="-54" width="48" height="84" rx="8" fill="#dff1ff"/>
+    <circle cx="0" cy="44" r="6" fill="#fff"/>
+    <circle class="pulse" cx="0" cy="-2" r="76" fill="none" stroke="#e87562" stroke-width="10"/><path d="M-48 52 48-56" stroke="#e87562" stroke-width="10" stroke-linecap="round"/>
+  </g><path class="pulse" d="M92 184L132 150" fill="none" stroke="#3a9468" stroke-width="9" stroke-linecap="round"/>
+  <path d="M132 150L124.76157648128515 169.2770647393143M132 150L111.80860807937432 154.03827838412514" fill="none" stroke="#3a9468" stroke-width="8" stroke-linecap="round"/>
+</svg>

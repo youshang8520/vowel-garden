@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="next plan illustration" data-vowel-garden-visual="semantic-illustration">
+  <style>
+    .float{animation:vgFloat 3.2s ease-in-out infinite}.pulse{animation:vgPulse 2.4s ease-in-out infinite}.move{animation:vgMove 2.2s ease-in-out infinite}
+    @keyframes vgFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes vgPulse{0%,100%{opacity:.72;transform:scale(1)}50%{opacity:1;transform:scale(1.04)}}@keyframes vgMove{0%,100%{transform:translateX(0)}50%{transform:translateX(8px)}}@media (prefers-reduced-motion: reduce){.float,.pulse,.move{animation:none}}
+  </style>
+  <rect width="320" height="240" rx="28" fill="#f7f0dc"/>
+  <rect x="18" y="18" width="284" height="204" rx="24" fill="#fff" opacity=".88"/>
+  <circle cx="274" cy="46" r="24" fill="#fff" opacity=".45"/>
+  <circle cx="44" cy="202" r="28" fill="#fff" opacity=".38"/>
+  <ellipse cx="160" cy="198" rx="94" ry="13" fill="#24312f" opacity=".13"/><g transform="translate(160 118)">
+    <rect x="-82" y="-70" width="164" height="142" rx="18" fill="#fff" stroke="#24312f" stroke-width="7"/>
+    <path d="M-82-30H82" stroke="#3a9468" stroke-width="16" opacity=".82"/>
+    <path d="M-48-82v28M48-82v28" stroke="#24312f" stroke-width="8" stroke-linecap="round"/>
+    <circle class="pulse" cx="38" cy="28" r="28" fill="#e4aa48" opacity=".35" stroke="#e4aa48" stroke-width="7"/>
+    <path d="M-48 0h96M-48 44h96M-18-12v70M22-12v70" stroke="#6a7888" stroke-width="5" opacity=".26" stroke-linecap="round"/>
+  </g>
+</svg>

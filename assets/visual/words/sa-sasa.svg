@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="竹叶，常见词根 visual">
+  <rect width="160" height="160" rx="26" fill="#fff2d6"/>
+  <circle cx="126" cy="30" r="18" fill="#7a4d2f" opacity=".2"/>
+  <circle cx="34" cy="132" r="22" fill="#e87562" opacity=".14"/>
+  
+      <ellipse cx="80" cy="118" rx="42" ry="18" fill="#7a4d2f" opacity=".22"/>
+      <circle cx="80" cy="78" r="32" fill="#e87562"/>
+      <path d="M58 78c12 16 32 16 44 0" fill="none" stroke="#4f8f67" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="68" cy="70" r="4" fill="#4f8f67"/><circle cx="92" cy="70" r="4" fill="#4f8f67"/>
+    
+  <path d="M30 136c22 8 78 8 100 0" fill="none" stroke="#4f8f67" stroke-width="3" opacity=".12" stroke-linecap="round"/>
+  <rect x="18" y="18" width="124" height="124" rx="22" fill="none" stroke="#4f8f67" stroke-width="3" opacity=".08"/>
+  <circle cx="52" cy="24" r="3" fill="#7a4d2f" opacity=".7"/>
+</svg>

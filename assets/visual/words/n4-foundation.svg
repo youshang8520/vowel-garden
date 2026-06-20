@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="N4 scene card" data-vowel-garden-visual="semantic-illustration">
+  <rect width="320" height="220" rx="24" fill="#f6fbff"/>
+  <rect x="18" y="142" width="284" height="44" rx="12" fill="#dcefe6"/>
+  <rect x="34" y="62" width="92" height="86" rx="8" fill="#f6d7b8"/>
+  <rect x="47" y="78" width="20" height="24" rx="3" fill="#8fc6d8"/>
+  <rect x="75" y="78" width="20" height="24" rx="3" fill="#8fc6d8"/>
+  <rect x="47" y="112" width="48" height="36" rx="4" fill="#b98c6a"/>
+  <rect x="154" y="78" width="112" height="50" rx="10" fill="#b8d9f4"/>
+  <rect x="166" y="90" width="28" height="18" rx="4" fill="#ffffff"/>
+  <rect x="204" y="90" width="28" height="18" rx="4" fill="#ffffff"/>
+  <circle cx="184" cy="136" r="12" fill="#49606b"/>
+  <circle cx="238" cy="136" r="12" fill="#49606b"/>
+  <path d="M146 124c18-22 42-32 72-30" fill="none" stroke="#6f8f72" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="78" cy="44" r="14" fill="#f4b46e"/>
+  <path d="M78 58v42M58 84h40M64 132h28M92 132h30" fill="none" stroke="#4f6b72" stroke-width="8" stroke-linecap="round"/>
+</svg>
